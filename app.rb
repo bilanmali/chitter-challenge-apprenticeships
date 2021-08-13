@@ -1,3 +1,8 @@
+#As a Maker
+#So that I can see what people are doing
+#I want to see all the messages (peeps)
+#in a browser
+
 require 'sinatra/base'
 
 class Chitter < Sinatra::Base
